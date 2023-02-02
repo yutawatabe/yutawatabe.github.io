@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Yuta Watabe"
 title_separator          : "-"
 name                     : &name "Yuta Watabe"
 description              : &description "Research fellow at Institute of Developing Economies, Japan"
