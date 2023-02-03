@@ -5,6 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
+## Publications
+
+* [**"Export of Recyclable Materials: Evidence from Japan"**](https://doi.org/10.1162/ASEP_a_00414), with Okubo Toshihiro and Kaori Furuyama, 2016.
+  * Published in ***Asian Economic Paper***, Volume 15(1). 
+
+* [**"Export of Recyclable Materials: Evidence from Japan"**](https://doi.org/10.1016/j.iref.2022.10.003), with Okubo Toshihiro, 2023.
+  * Published in ***International Review of Economics & Finance***, Volume 83. 
+
 ## Working Papers
 
 * [**"Triangulating Multinationals and Trade"**](http://yutawatabe.github.io/files/triangulation2023.pdf), submitted 2023.
@@ -13,3 +21,4 @@ author_profile: true
 ## Research in Progress
 
 * Multinationals, trade and emission, with Joschka Wanner, draft coming soon.
+
