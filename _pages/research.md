@@ -7,10 +7,9 @@ author_profile: true
 
 ## Working Papers
 
-* [**"Triangulating Multinationals and Trade,"**](http://yutawatabe.github.io/files/triangulation2023.pdf) 2023.
+* [**"Triangulating Multinationals and Trade"**](http://yutawatabe.github.io/files/triangulation2023.pdf), submitted 2023.
+* [**"Can Digital Distribution Defy the Law of Gravity?"**](http://yutawatabe.github.io/files/gravity_in_steam2023.pdf), with Han Yang and Eugene Kanasheuski submitted 2023.
 
-#{% include base_path %}
+## Research in Progress
 
-#{% for post in site.research reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
+* Multinationals, trade and emission, with Joschka Wanner, draft coming soon.
