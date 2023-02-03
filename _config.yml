@@ -178,9 +178,6 @@ collections:
   teaching:
     output: false
     permalink: /:collection/:path/
-  workingpaper:
-  　output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
