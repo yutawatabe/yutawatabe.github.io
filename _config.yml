@@ -85,8 +85,8 @@ author:
   bio              : "Research Fellow at Institute of Developing Economies"
   location         : "Tokyo, Japan"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           :
+  googlescholar    :
   email            : "yutawatabe@gmail.com"
   researchgate     :  # example: ""
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           :
   google_plus      :
   keybase          :
   instagram        :
