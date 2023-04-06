@@ -21,4 +21,4 @@ author_profile: true
 ## Research in Progress
 
 * Multinationals, trade and emission, with Joschka Wanner, draft coming soon.
-
+* Pricing to the market in digital economy, with Han Yang, draft coming soon.
