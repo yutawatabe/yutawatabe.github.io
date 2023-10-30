@@ -10,7 +10,7 @@ author_profile: true
 * [**"Export of Recyclable Materials: Evidence from Japan"**](https://doi.org/10.1162/ASEP_a_00414), with Okubo Toshihiro and Kaori Furuyama, 2016.
   * Published in ***Asian Economic Paper***, Volume 15(1). 
 
-* [**"Export of Recyclable Materials: Evidence from Japan"**](https://doi.org/10.1016/j.iref.2022.10.003), with Okubo Toshihiro, 2023.
+* [**"Networked FDI and third-country intra-firm trade"**](https://doi.org/10.1016/j.iref.2022.10.003), with Okubo Toshihiro, 2023.
   * Published in ***International Review of Economics & Finance***, Volume 83. 
 
 ## Working Papers
@@ -22,3 +22,5 @@ author_profile: true
 
 * Multinationals, trade and emission, with Joschka Wanner, draft coming soon.
 * Pricing to the market in digital economy, with Han Yang, draft coming soon.
+* New Trade Models, Same Old Emissions?, with Joschka Wanner and Robin Sogala, draft coming soon.
+* Geography of Urban Delivery platform, with Ying Chen, draft coming soon.
