@@ -16,10 +16,13 @@ NEWS
 ======
 - 2022/02/03: I uploaded a new draft for "Can Digital Distirubtion Defy the Law of Gravity?"
 - 2022/03/01: I am now a research fellow in Insitute of Developing Economies in Japan.
+- 2023/10/30: Updated few things (Added some works in progress)
 
 UPCOMING AND RECENT TALKS
 ======
-- 2022/03/06: International Workshop on Environment, Economic Geography, and Trade (Japanese) at Keio University
+- 2023/10/14: Japan Society of International Economics Annual Meeting ("New trade models, Same Old Emissions?")
+- 2023/11/25: IEFS Japan Conference ("New trade models, Same old Emission?")
+- 2023/11/27: Macroeconometric Modelling Workshop at IEAS ("Multinationals, Trade and Carbon Emissions")
 
 
 
