@@ -23,3 +23,10 @@ Work experience
 
 * 2023 - present: Research Fellow
   * Institute of Developing Economies
+
+Presentations
+======
+- 2023/05/22: Keio University Applied Microeconomics Workshop ("Geography of Urban Delivery Platform")
+- 2023/10/14: Japan Society of International Economics Annual Meeting ("New trade models, Same Old Emissions?")
+- 2023/11/25: IEFS Japan Conference ("New trade models, Same old Emission?")
+- 2023/11/27: Macroeconometric Modelling Workshop at IEAS ("Multinationals, Trade and Carbon Emissions")
