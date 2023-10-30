@@ -23,4 +23,4 @@ author_profile: true
 * Multinationals, trade and emission, with Joschka Wanner, draft coming soon.
 * Pricing to the market in digital economy, with Han Yang, draft coming soon.
 * New Trade Models, Same Old Emissions?, with Joschka Wanner and Robin Sogala, draft coming soon.
-* Geography of Urban Delivery platform, with Ying Chen, draft coming soon.
+* Geography of Urban Delivery Platform, with Ying Chen, draft coming soon.
