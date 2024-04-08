@@ -17,10 +17,10 @@ author_profile: true
 
 * [**"Triangulating Multinationals and Trade"**](http://yutawatabe.github.io/files/triangulation2023.pdf), submitted 2023.
 * [**"Can Digital Distribution Defy the Law of Gravity?"**](http://yutawatabe.github.io/files/Gravity_in_Steam2023.pdf), with Han Yang and Eugene Kanasheuski submitted 2023.
-
+* [**"New Trade Models, Same Old Emissions?"**] (http://yutawatabe.github.io/files/NSOE.pdf), with Joschka Wanner and Robin Sogalla 2024.
 ## Research in Progress
 
 * Multinationals, trade and emission, with Joschka Wanner, draft coming soon.
 * Pricing to the market in digital economy, with Han Yang, draft coming soon.
-* New Trade Models, Same Old Emissions?, with Joschka Wanner and Robin Sogala, draft coming soon.
 * Geography of Urban Delivery Platform, with Ying Chen, draft coming soon.
+* What Industries Are Prone to Carbon Leakage?, with Joschka Wanner and Akari Ono, draft coming soon.
